@@ -1,0 +1,101 @@
+region,season,avgRainfallMm,avgTempC
+Telangana,Kharif,1024.43,26.8
+Telangana,Kharif,1015.12,29.92
+Telangana,Kharif,915.71,29.11
+Telangana,Kharif,977.68,26.56
+Telangana,Kharif,915.06,29.51
+Telangana,Rabi,287.09,26.13
+Telangana,Rabi,321.39,27.96
+Telangana,Rabi,380.34,25.16
+Telangana,Rabi,254.3,26.06
+Telangana,Rabi,383.71,27.64
+Telangana,Summer,149.93,31.29
+Telangana,Summer,212.27,31.63
+Telangana,Summer,202.66,30.45
+Telangana,Summer,136.59,29.37
+Telangana,Summer,118.19,31.44
+Telangana,Zaid,190.53,28.25
+Telangana,Zaid,189.02,28.91
+Telangana,Zaid,310.71,29.12
+Telangana,Zaid,189.96,29.03
+Telangana,Zaid,301.19,27.27
+Andhra Pradesh,Kharif,1087.01,30.45
+Andhra Pradesh,Kharif,1134.03,30.77
+Andhra Pradesh,Kharif,1157.25,29.32
+Andhra Pradesh,Kharif,1083.06,27.33
+Andhra Pradesh,Kharif,1169.53,29.26
+Andhra Pradesh,Rabi,356.79,26.04
+Andhra Pradesh,Rabi,406.26,26.26
+Andhra Pradesh,Rabi,349.69,25.52
+Andhra Pradesh,Rabi,402.87,26.83
+Andhra Pradesh,Rabi,442.56,28.74
+Andhra Pradesh,Summer,143.8,31.48
+Andhra Pradesh,Summer,221.32,29.4
+Andhra Pradesh,Summer,217.77,31.02
+Andhra Pradesh,Summer,161.04,30.4
+Andhra Pradesh,Summer,152.13,29.98
+Andhra Pradesh,Zaid,267.4,29.25
+Andhra Pradesh,Zaid,303.55,28.71
+Andhra Pradesh,Zaid,365.24,30.73
+Andhra Pradesh,Zaid,301.55,30.17
+Andhra Pradesh,Zaid,305.14,31.23
+Karnataka,Kharif,862.5,28.51
+Karnataka,Kharif,885.03,28.56
+Karnataka,Kharif,951.94,25.62
+Karnataka,Kharif,887.45,25.84
+Karnataka,Kharif,896.0,27.75
+Karnataka,Rabi,355.41,25.02
+Karnataka,Rabi,271.16,26.63
+Karnataka,Rabi,243.11,25.54
+Karnataka,Rabi,352.11,23.18
+Karnataka,Rabi,282.7,23.52
+Karnataka,Summer,237.17,27.65
+Karnataka,Summer,161.86,29.82
+Karnataka,Summer,178.53,27.45
+Karnataka,Summer,232.31,29.76
+Karnataka,Summer,120.87,27.14
+Karnataka,Zaid,219.69,27.71
+Karnataka,Zaid,228.17,25.67
+Karnataka,Zaid,219.05,29.23
+Karnataka,Zaid,304.11,25.66
+Karnataka,Zaid,218.09,28.23
+Maharashtra,Kharif,1049.37,26.91
+Maharashtra,Kharif,1034.38,29.0
+Maharashtra,Kharif,1092.34,28.5
+Maharashtra,Kharif,1085.61,26.45
+Maharashtra,Kharif,978.75,28.7
+Maharashtra,Rabi,296.79,25.15
+Maharashtra,Rabi,297.11,27.2
+Maharashtra,Rabi,381.53,25.15
+Maharashtra,Rabi,365.79,26.44
+Maharashtra,Rabi,306.74,24.14
+Maharashtra,Summer,218.18,29.03
+Maharashtra,Summer,125.42,29.38
+Maharashtra,Summer,147.94,31.17
+Maharashtra,Summer,168.95,30.78
+Maharashtra,Summer,241.99,28.39
+Maharashtra,Zaid,288.4,27.59
+Maharashtra,Zaid,235.0,26.28
+Maharashtra,Zaid,304.27,27.4
+Maharashtra,Zaid,267.32,28.72
+Maharashtra,Zaid,314.11,27.32
+Tamil Nadu,Kharif,757.36,31.01
+Tamil Nadu,Kharif,790.07,29.82
+Tamil Nadu,Kharif,891.2,27.65
+Tamil Nadu,Kharif,837.02,28.88
+Tamil Nadu,Kharif,863.6,29.25
+Tamil Nadu,Rabi,342.29,25.96
+Tamil Nadu,Rabi,330.43,26.26
+Tamil Nadu,Rabi,210.71,27.24
+Tamil Nadu,Rabi,277.29,28.73
+Tamil Nadu,Rabi,300.66,29.26
+Tamil Nadu,Summer,185.69,30.29
+Tamil Nadu,Summer,142.88,33.3
+Tamil Nadu,Summer,211.41,31.99
+Tamil Nadu,Summer,175.37,30.0
+Tamil Nadu,Summer,208.51,31.53
+Tamil Nadu,Zaid,236.87,29.3
+Tamil Nadu,Zaid,241.11,30.22
+Tamil Nadu,Zaid,170.36,30.66
+Tamil Nadu,Zaid,196.58,30.99
+Tamil Nadu,Zaid,167.86,30.28

@@ -1,0 +1,101 @@
+farmId,cropCode,region,season,yieldTons
+F001,CR02,Telangana,Kharif,3.72
+F002,CR05,Telangana,Kharif,3.4
+F003,CR03,Telangana,Kharif,3.88
+F004,CR02,Telangana,Kharif,4.52
+F005,CR01,Telangana,Kharif,4.57
+F006,CR04,Telangana,Rabi,3.6
+F007,CR01,Telangana,Rabi,4.6
+F008,CR07,Telangana,Rabi,3.22
+F009,CR05,Telangana,Rabi,3.68
+F010,CR01,Telangana,Rabi,4.87
+F011,CR03,Telangana,Summer,3.02
+F012,CR06,Telangana,Summer,4.05
+F013,CR04,Telangana,Summer,4.19
+F014,CR06,Telangana,Summer,3.8
+F015,CR07,Telangana,Summer,2.67
+F016,CR06,Telangana,Zaid,4.76
+F017,CR01,Telangana,Zaid,4.6
+F018,CR02,Telangana,Zaid,4.25
+F019,CR07,Telangana,Zaid,2.83
+F020,CR05,Telangana,Zaid,3.54
+F021,CR06,Andhra Pradesh,Kharif,6.35
+F022,CR02,Andhra Pradesh,Kharif,4.22
+F023,CR04,Andhra Pradesh,Kharif,5.46
+F024,CR02,Andhra Pradesh,Kharif,5.35
+F025,CR02,Andhra Pradesh,Kharif,4.68
+F026,CR08,Andhra Pradesh,Rabi,3.38
+F027,CR06,Andhra Pradesh,Rabi,4.91
+F028,CR06,Andhra Pradesh,Rabi,4.98
+F029,CR05,Andhra Pradesh,Rabi,3.87
+F030,CR02,Andhra Pradesh,Rabi,4.34
+F031,CR03,Andhra Pradesh,Summer,3.08
+F032,CR04,Andhra Pradesh,Summer,3.46
+F033,CR07,Andhra Pradesh,Summer,3.25
+F034,CR04,Andhra Pradesh,Summer,4.19
+F035,CR01,Andhra Pradesh,Summer,4.08
+F036,CR01,Andhra Pradesh,Zaid,5.15
+F037,CR07,Andhra Pradesh,Zaid,3.45
+F038,CR04,Andhra Pradesh,Zaid,4.74
+F039,CR06,Andhra Pradesh,Zaid,4.7
+F040,CR08,Andhra Pradesh,Zaid,2.88
+F041,CR08,Karnataka,Kharif,2.58
+F042,CR03,Karnataka,Kharif,2.92
+F043,CR05,Karnataka,Kharif,3.81
+F044,CR07,Karnataka,Kharif,4.41
+F045,CR07,Karnataka,Kharif,3.66
+F046,CR03,Karnataka,Rabi,2.84
+F047,CR02,Karnataka,Rabi,3.85
+F048,CR02,Karnataka,Rabi,3.01
+F049,CR03,Karnataka,Rabi,3.24
+F050,CR07,Karnataka,Rabi,3.46
+F051,CR07,Karnataka,Summer,2.81
+F052,CR08,Karnataka,Summer,2.42
+F053,CR01,Karnataka,Summer,3.97
+F054,CR02,Karnataka,Summer,3.38
+F055,CR05,Karnataka,Summer,3.05
+F056,CR06,Karnataka,Zaid,3.71
+F057,CR07,Karnataka,Zaid,2.67
+F058,CR01,Karnataka,Zaid,4.57
+F059,CR05,Karnataka,Zaid,3.5
+F060,CR03,Karnataka,Zaid,2.69
+F061,CR02,Maharashtra,Kharif,5.14
+F062,CR05,Maharashtra,Kharif,4.44
+F063,CR04,Maharashtra,Kharif,4.35
+F064,CR03,Maharashtra,Kharif,3.8
+F065,CR01,Maharashtra,Kharif,5.64
+F066,CR08,Maharashtra,Rabi,2.37
+F067,CR06,Maharashtra,Rabi,5.66
+F068,CR05,Maharashtra,Rabi,3.06
+F069,CR04,Maharashtra,Rabi,4.71
+F070,CR02,Maharashtra,Rabi,3.41
+F071,CR08,Maharashtra,Summer,3.16
+F072,CR03,Maharashtra,Summer,2.37
+F073,CR08,Maharashtra,Summer,3.35
+F074,CR03,Maharashtra,Summer,2.56
+F075,CR07,Maharashtra,Summer,4.05
+F076,CR04,Maharashtra,Zaid,4.26
+F077,CR07,Maharashtra,Zaid,4.29
+F078,CR06,Maharashtra,Zaid,4.77
+F079,CR08,Maharashtra,Zaid,2.35
+F080,CR04,Maharashtra,Zaid,3.35
+F081,CR01,Tamil Nadu,Kharif,5.21
+F082,CR04,Tamil Nadu,Kharif,4.6
+F083,CR01,Tamil Nadu,Kharif,4.49
+F084,CR01,Tamil Nadu,Kharif,4.71
+F085,CR01,Tamil Nadu,Kharif,5.59
+F086,CR02,Tamil Nadu,Rabi,3.71
+F087,CR05,Tamil Nadu,Rabi,3.4
+F088,CR04,Tamil Nadu,Rabi,3.92
+F089,CR08,Tamil Nadu,Rabi,2.45
+F090,CR08,Tamil Nadu,Rabi,3.24
+F091,CR04,Tamil Nadu,Summer,2.89
+F092,CR07,Tamil Nadu,Summer,2.94
+F093,CR07,Tamil Nadu,Summer,3.1
+F094,CR01,Tamil Nadu,Summer,4.17
+F095,CR02,Tamil Nadu,Summer,2.69
+F096,CR06,Tamil Nadu,Zaid,4.92
+F097,CR02,Tamil Nadu,Zaid,3.14
+F098,CR04,Tamil Nadu,Zaid,3.71
+F099,CR03,Tamil Nadu,Zaid,2.72
+F100,CR05,Tamil Nadu,Zaid,2.94

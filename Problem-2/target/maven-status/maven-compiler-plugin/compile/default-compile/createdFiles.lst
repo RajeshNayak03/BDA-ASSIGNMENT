@@ -1,0 +1,4 @@
+com\agrisense\p2\AvgYieldDriver.class
+com\agrisense\p2\LocalRunner.class
+com\agrisense\p2\AvgYieldMapper.class
+com\agrisense\p2\AvgYieldReducer.class
