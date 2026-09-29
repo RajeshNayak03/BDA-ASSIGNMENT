@@ -43,3 +43,6 @@ To view the output:
 ```bash
 hdfs dfs -cat /agrisense/output/problem1/part-r-00000
 ```
+## Output Format
+
+The output is generated for each matching Region-Season combination. Each record contains the Region, Season, and the corresponding yield value.
